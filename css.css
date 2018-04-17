@@ -1,0 +1,27 @@
+html,body
+{
+	min-height:100%;
+	width:100%;
+	margin:0;
+	padding:0;
+	background: #e6e6e6 !important;
+}
+
+.navbar-brand
+{
+	font-weight:bold;
+}
+
+.app-container
+{
+	max-width:850px;
+	margin:100 auto;
+}
+
+.well
+{
+	background-color:#d4d4d4 !important;
+	word-wrap: break-word !important;
+}
+
+a{display:block;}
